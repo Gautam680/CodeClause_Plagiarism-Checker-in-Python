@@ -6,7 +6,7 @@ To get started with the code on this repo, you need to either *clone* or *downlo
 
 ```bash
 
-git clone https://github.com/me-badsha/Plagiarism-checker.git
+https://github.com/Gautam680/CodeClause_Plagiarism-Checker-in-Python
 
 ```
 
